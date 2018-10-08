@@ -1,4 +1,3 @@
-开发者文档，开发规范
 # forntend-doc
 
 > Front-end developer documentation.
