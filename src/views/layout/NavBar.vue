@@ -1,6 +1,6 @@
 <template>
   <header class="header-fix">
-    <h1>前端开发者文档 - 八戒科技服务</h1>
+    <h1>前端开发者文档</h1>
   </header>
 </template>
 
